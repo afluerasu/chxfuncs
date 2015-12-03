@@ -1,3 +1,3 @@
 a=1
 
-# from . import subpackage
+from . import newfuncs 
